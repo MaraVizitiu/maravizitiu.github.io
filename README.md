@@ -15,5 +15,6 @@ During 2016 - 2019 I have obtained a BSc in Biochemistry from the _University of
 4. Swedish (beginner)
 
 ### Contact:
-E-mail: mara_vizitiu@yahoo.com
-        ma4524vi-s@student.lu.se
+E-mail: mara_vizitiu@yahoo.com / ma4524vi-s@student.lu.se
+
+For future reference and for designing a similar page, please find a nifty GitHub markdown guide [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
