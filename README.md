@@ -13,3 +13,7 @@ During 2016 - 2019 I have obtained a BSc in Biochemistry from the _University of
 2. English (fluent)
 3. Spanish (beginner)
 4. Swedish (beginner)
+
+### Contact:
+E-mail: mara_vizitiu@yahoo.com
+        ma4524vi-s@student.lu.se
