@@ -8,7 +8,7 @@ _Hello!_
 I am Mara Vizitiu, a 23 year old student at _Lund University_. I am currently working on a MSc in Bioinformatics and expect to graduate in 2022.
 During 2016 - 2019 I have obtained a BSc in Biochemistry from the _University of Bucharest_. My thesis was centered around Microbiology, focusing on halophile bacteria found in the Atacama Desert, and was realized in collaboration with the [Bucharest Institute of Biology](https://www.ibiol.ro/en/).
 
-###### Languages I speak:
+### Languages I speak:
 1. Romanian (mother tongue)
 2. English (fluent)
 3. Spanish (beginner)
